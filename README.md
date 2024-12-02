@@ -110,7 +110,7 @@ The application will be available at `http://localhost:4200`
 - Maintain purchase history
 - Update inventory automatically
 
-
+<img width="743" alt="image" src="https://github.com/user-attachments/assets/32d3829a-e126-4e48-a21f-7a2f34ff47ce">
 
 ### Overdue Management
 - Track overdue books
